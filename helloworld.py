@@ -1,1 +1,3 @@
-print ('helloworld.py')
+print ('helloworld')
+def calculate_mean(numbers):
+    return sum(numbers) / len(numbers)
